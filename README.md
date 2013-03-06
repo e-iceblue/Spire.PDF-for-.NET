@@ -104,4 +104,4 @@ All the projects in “Demos” can be performed on .NET 2.0 and above. Here I l
 <p>Extraction( Read PDF Text, Images and Attachment)</p>
 <p>Merge PDF files</p>
 <p>Split PDF files</p>
-There are still many features not packed in the download. You can view them in Spire.PDF for .NET <a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Program-Guide.html">Program Guide</a></p>.
+There are still many features not packed in the download. You can view them in Spire.PDF for .NET <a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Demos.html">Live Demos</a></p> and <a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Program-Guide.html">Program Guide</a></p>.
