@@ -1,6 +1,6 @@
 <p><strong>Spire.PDF for .NET<strong></p>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-This repository introduces a .NET PDF library <a href="http://www.domain.com">Spire.PDF for .NET</a></p>
+This repository introduces a .NET PDF library <a href="http://www.e-iceblue.com/Introduce/pdf-for-net-introduce.html">Spire.PDF for .NET</a></p>
 Spire.PDF for .NET is a professional .NET PDF component which enables you to generate, read, edit and manipulate PDF documents in C#, VB.NET. It can be generally applied in server-side (ASP.NET or any other environment) or with Windows Forms applications without installing Adobe Acrobat or any other external libraries.
 Many features are supported in Spire.PDF for .NET. First let us have a first glance of this .NET PDF component, then, expound its detail features one by one.
 
@@ -83,26 +83,25 @@ All the projects in “Demos” can be performed on .NET 2.0 and above. Here I l
 <p><strong>List<strong></p>
 <p>Create Ordered list, multiple levels list and set list style</p>
 <p>Create Simple List</p>
-Interaction
-Work with Action and Javascript Action
-Work with Action Chain
-Add Attachment
-Add Bookmark
-Work with Formfield
-Add Hyperlink
-Security
-Encrypt
-Decrypt
-Create Digital Signarture
-Conversion
-Convert HTML to PDF
-Document Setting
-Set Properties
-Set View Preference
-Document Operation
-Create Booklet
-Extraction( Read PDF Text, Images and Attachment)
-Merge PDF files
-Split PDF files
-
-There are still many features not packed in the download. You can view them in Spire.PDF for .NET Demos and Program Guide.
+<p><strong>Interaction<strong></p>
+<p>Work with Action and Javascript Action</p>
+<p>Work with Action Chain</p>
+<p>Add Attachment</p>
+<p>Add Bookmark</p>
+<p>Work with Formfield</p>
+<p>Add Hyperlink</p>
+<p><strong>Security<strong></p>
+<p>Encrypt</p>
+<p>Decrypt</p>
+<p>Create Digital Signarture</p>
+<p><strong>Conversion<strong></p>
+<p>Convert HTML to PDF</p>
+<p><strong>Document Setting<strong></p>
+<p>Set Properties</p>
+<p>Set View Preference</p>
+<p><strong>Document Operation<strong></p>
+<p>Create Booklet</p>
+<p>Extraction( Read PDF Text, Images and Attachment)</p>
+<p>Merge PDF files</p>
+<p>Split PDF files</p>
+There are still many features not packed in the download. You can view them in Spire.PDF for .NET <a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Program-Guide.html">Program Guide</a></p>.
