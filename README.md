@@ -38,7 +38,7 @@ There a lot of PDF tasks can be operated by using this .NET PDF library. You can
 
 <p><strong>Free Trial of Spire.PDF for .NET<strong></p>
 ----------------------------------------------------------------------------------------------------------------------------------------------
-Spire.PDF for .NET is a commercial PDF library used in .NET applications. You can <a href="http://www.e-iceblue.com/Download/download-pdf-for-net-now.html">download</a>Spire.PDF for .NET and install it on your system. After adding Spire.Pdf dll, when it works, it will in evaluation mode. Such an evaluation warning will be removed only when you purchase a license.
+Spire.PDF for .NET is a commercial PDF library used in .NET applications. You can <a href="http://www.e-iceblue.com/Download/download-pdf-for-net-now.html">download </a>Spire.PDF for .NET and install it on your system. After adding Spire.Pdf dll, when it works, it will in evaluation mode. Such an evaluation warning will be removed only when you purchase a license.
 
 
 <p><strong>Content in Download<strong></p>
@@ -54,8 +54,8 @@ CSDemos-VS2010.sln
 VBDemos-VS2005.sln
 VBDemos-VS2008.sln
 VBDemos-VS2010.sln
-<p><strong>Data<strong>( all the files and images that are applied in projects)</p>
-<p><strong>SampleCenter.exe<strong>( demonstrates all the effect of the tasks)</p>
+<p><strong>Data( all the files and images that are applied in projects)</p>
+<p><strong>SampleCenter.exe( demonstrates all the effect of the tasks)</p>
 
 All the projects in “Demos” can be performed on .NET 2.0 and above. Here I list all the demos in every project and after I will also introduce some important features of this PDF component that are not packed in the source code.
 
