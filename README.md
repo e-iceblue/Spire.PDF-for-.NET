@@ -35,56 +35,54 @@ There a lot of PDF tasks can be operated by using this .NET PDF library. You can
 <img src="http://24.media.tumblr.com/c45b540865471e6fa0ebcc79cda3750c/tumblr_mg1fekdP621rrbavjo1_1280.jpg">
 
 <p><strong>Content in Download<strong></p>
-
-<p><strong>Projectsd<strong></p>
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p><strong>Projects<strong></p>
 After you download Spire.PDF for .NET, you can find all source code of both C# and VB.NET in “Demos” folder. Below is a simple structure to help you find what you want:
-
-Demos:
-CS
+<p><strong>Demos:<strong></p>
+<p><strong>CS<strong></p>
 CSDemos-VS2005.sln
 CSDemos-VS2008.sln
 CSDemos-VS2010.sln
-VB
+<p><strong>VB<strong></p>
 VBDemos-VS2005.sln
 VBDemos-VS2008.sln
 VBDemos-VS2010.sln
-Data( all the files and images that are applied in projects)
-SampleCenter.exe( demonstrates all the effect of the tasks)
+<p><strong>Data<strong>( all the files and images that are applied in projects)</p>
+<p><strong>SampleCenter.exe<strong>( demonstrates all the effect of the tasks)</p>
 
 All the projects in “Demos” can be performed on .NET 2.0 and above. Here I list all the demos in every project and after I will also introduce some important features of this PDF component that are not packed in the source code.
 
-Quick Guide
-Draw “HelloWorld”(How to get start)
-Add Simple image
-Drawing
-Draw Barcode
-Draw Image and set image format
-Draw Shape(Circles, Arcs, Rectangles, Ellipses, Five-pointed star)
-Draw Text and set text format( rotate, transform, alignment, draw in rectangle)
-Set Overlay
-Set Transparency
-Formatting
-Set Text Font
-Set Text Layout
-Page
-Work with Automatic Field List
-Work with Page Setup
-Paginate pages
-Set Template
-Work with Page Transition
-Table
-Export data from database to PDF table
-Export table and pictures from database to PDF table
-Draw Simple Table
-Draw Nested Table
-Set Table Layout
-Watermark
-Add Image Watermark
-Add Text Watermark
-List
-Create Ordered list, multiple levels list and set list style
-Create Simple List
+<p><strong>Quick Guide<strong></p>
+<p>Draw “HelloWorld”(How to get start)
+<p>Add Simple image</p>
+<p><strong>Drawing<strong></p>
+<p>Draw Barcode</p>
+<p>Draw Image and set image format</p>
+<p>Draw Shape(Circles, Arcs, Rectangles, Ellipses, Five-pointed star)</p>
+<p>Draw Text and set text format( rotate, transform, alignment, draw in rectangle)</p>
+<p>Set Overlay</p>
+<p>Set Transparency</p>
+<p><strong>Formatting<strong></p>
+<p>Set Text Font</p>
+<p>Set Text Layout</p>
+<p><strong>Page<strong></p>
+<p>Work with Automatic Field List
+<p>Work with Page Setup</p>
+<p>Paginate pages</p>
+<p>Set Template</p>
+<p>Work with Page Transition</p>
+<p><strong>Table<strong></p>
+<p>Export data from database to PDF table</p>
+<p>Export table and pictures from database to PDF table</p>
+<p>Draw Simple Table</p>
+<p>Draw Nested Table</p>
+<p>Set Table Layout</p>
+<p><strong>Watermark<strong></p>
+<p>Add Image Watermark</p>
+<p>Add Text Watermark</p>
+<p><strong>List<strong></p>
+<p>Create Ordered list, multiple levels list and set list style</p>
+<p>Create Simple List</p>
 Interaction
 Work with Action and Javascript Action
 Work with Action Chain
