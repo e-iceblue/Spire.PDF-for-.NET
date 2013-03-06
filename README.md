@@ -16,18 +16,18 @@ Spire.PDF for .NET allows you to extract PDF text both in plain format and speci
 
 <p><strong>3. Edit PDF File<strong></p>
 This PDF component has rich features in editing PDF file. It supports to set text format and edit PDF page in multiple ways. Here is a simple list:
-Text: draw text and set text format
-Image: draw PDF images and different kinds of shapes
-Table: draw PDF table including simple table, nested table and image table,
-Watermark: add both text watermark and image watermark
-Bookmark
-Header and footer
-Attachment: add attachments, read attachments and remove attachments
-Hyperlink: link and anchor link
-List: Simple list and multi-level list
-Booklet
-Action: action and action chain
-Automatic Field
+<p>Text: draw text and set text format</p>
+<p>Image: draw PDF images and different kinds of shapes</p>
+<p>Table: draw PDF table including simple table, nested table and image table</p>
+<p>Watermark: add both text watermark and image watermark</p>
+<p>Bookmark:add bookmarks and get bookmarks</p>
+<p>Header and footer</p>
+<p>Attachment: add attachments, read attachments and remove attachments</p>
+<p>Hyperlink: link and anchor link</p>
+<p>List: Simple list and multi-level list</p>
+<p>Booklet</p>
+<p>Action: action and action chain</p>
+<p>Automatic Field</p>
 
 <p><strong>4. Manipulate PDF File<strong></p>
 There a lot of PDF tasks can be operated by using this .NET PDF library. You can merge PDF files into one PDF as well as split a huge PDF with the given number range accordingly. Furthermore, it can protect your PDF document by encryption with both owner password and user password, create PDF digital signature. If you do not need to lock your PDF, you can decrypt it quickly. Besides, you can set PDF property, PDF template and view preference as you like. Finally, webpage, image and text all can be converted to PDF which are already referred above. Form below picture, you can view most features of editing and handling PDF document clearly.
