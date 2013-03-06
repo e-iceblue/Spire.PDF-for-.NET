@@ -34,6 +34,12 @@ This PDF component has rich features in editing PDF file. It supports to set tex
 There a lot of PDF tasks can be operated by using this .NET PDF library. You can merge PDF files into one PDF as well as split a huge PDF with the given number range accordingly. Furthermore, it can protect your PDF document by encryption with both owner password and user password, create PDF digital signature. If you do not need to lock your PDF, you can decrypt it quickly. Besides, you can set PDF property, PDF template and view preference as you like. Finally, webpage, image and text all can be converted to PDF which are already referred above. Form below picture, you can view most features of editing and handling PDF document clearly.
 <img src="http://24.media.tumblr.com/c45b540865471e6fa0ebcc79cda3750c/tumblr_mg1fekdP621rrbavjo1_1280.jpg">
 
+
+<p><strong>Free Trial of Spire.PDF for .NET<strong></p>
+----------------------------------------------------------------------------------------------------------------------------------------------
+Spire.PDF for .NET is a commercial PDF library used in .NET applications. You can <a href="http://www.e-iceblue.com/Download/download-pdf-for-net-now.html">download</a>Spire.PDF for .NET and install it on your system. After adding Spire.Pdf dll, when it works, it will in evaluation mode. Such an evaluation warning will be removed only when you purchase a license.
+
+
 <p><strong>Content in Download<strong></p>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p><strong>Projects<strong></p>
@@ -104,4 +110,19 @@ All the projects in “Demos” can be performed on .NET 2.0 and above. Here I l
 <p>Extraction( Read PDF Text, Images and Attachment)</p>
 <p>Merge PDF files</p>
 <p>Split PDF files</p>
-There are still many features not packed in the download. You can view them in Spire.PDF for .NET <a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Demos.html">Live Demos</a></p> and <a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Program-Guide.html">Program Guide</a></p>.
+There are still many features not packed in the download. You can view them in Spire.PDF for .NET <a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Demos.html">Live Demos</a> and <a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Program-Guide.html">Program Guide</a></p>.
+
+
+<p><strong>Feedback and Support<strong></p>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+E-iceblue welcomes any kind of questions, bug reports and feedback aout this product from our customers. As long as you leave them on Spire.PDF or .NET <a href="http://www.e-iceblue.com/forum/viewforum.php?f=7">Forum</a> or <a href="http://www.e-iceblue.com/Misc/maillist.html">contact us</a>by e-mail, we will offer full support within one business day.
+
+
+<p><strong>Related Links<strong></p>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p><strong>Website:<strong><a href="http://www.e-iceblue.com">e-iceblue</a></p>
+<p><strong>Product Home:<strong><a href="http://www.e-iceblue.com/Introduce/pdf-for-net-introduce.html">Spire.PDF for .NET</a></p>
+<p><strong>Free Trial:<strong><a href="http://www.e-iceblue.com/Download/download-pdf-for-net-now.html">Download Spire.PDF for .NET</a></p>
+<p><strong>Demos:<strong><a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Demos.html">Live Demos</a></p>
+<p><strong>Program Guide:<strong><a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Program-Guide.html">Program Guide</a></p>
+<p><strong>Ask Questions:<strong><a href="http://www.e-iceblue.com/forum/viewforum.php?f=7">Forum</a></p>
