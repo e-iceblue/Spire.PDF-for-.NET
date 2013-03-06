@@ -47,15 +47,15 @@ Spire.PDF for .NET is a commercial PDF library used in .NET applications. You ca
 After you download Spire.PDF for .NET, you can find all source code of both C# and VB.NET in “Demos” folder. Below is a simple structure to help you find what you want:
 <p><strong>Demos:<strong></p>
 <p><strong>CS<strong></p>
-CSDemos-VS2005.sln
-CSDemos-VS2008.sln
-CSDemos-VS2010.sln
+<p>CSDemos-VS2005.sln</p>
+<p>CSDemos-VS2008.sln</p>
+<p>CSDemos-VS2010.sln</p>
 <p><strong>VB<strong></p>
-VBDemos-VS2005.sln
-VBDemos-VS2008.sln
-VBDemos-VS2010.sln
-<p><strong>Data( all the files and images that are applied in projects)</p>
-<p><strong>SampleCenter.exe( demonstrates all the effect of the tasks)</p>
+<p>VBDemos-VS2005.sln</p>
+<p>VBDemos-VS2008.sln</p>
+<p>VBDemos-VS2010.sln</p>
+<p><strong>Data<strong></p>( all the files and images that are applied in projects)</p>
+<p><strong>SampleCenter.exe<strong></p>( demonstrates all the effect of the tasks)</p>
 
 All the projects in “Demos” can be performed on .NET 2.0 and above. Here I list all the demos in every project and after I will also introduce some important features of this PDF component that are not packed in the source code.
 
