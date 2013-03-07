@@ -1,5 +1,5 @@
-<p><strong>Spire.PDF for .NET<strong></p>
-=====
+Spire.PDF for .NET
+================
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This repository introduces a .NET PDF library <a href="http://www.e-iceblue.com/Introduce/pdf-for-net-introduce.html">Spire.PDF for .NET</a></p>
 Spire.PDF for .NET is a professional .NET PDF component which enables you to generate, read, edit and manipulate PDF documents in C#, VB.NET. It can be generally applied in server-side (ASP.NET or any other environment) or with Windows Forms applications without installing Adobe Acrobat or any other external libraries.
