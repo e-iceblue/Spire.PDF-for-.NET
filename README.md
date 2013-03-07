@@ -29,7 +29,7 @@ This PDF component has rich features in editing PDF file. It supports to set tex
 <p><strong>4. Manipulate PDF File<strong></p>
 There a lot of PDF tasks can be operated by using this .NET PDF library. You can merge PDF files into one PDF as well as split a huge PDF with the given number range accordingly. Furthermore, it can protect your PDF document by encryption with both owner password and user password, create PDF digital signature. If you do not need to lock your PDF, you can decrypt it quickly. Besides, you can set PDF property, PDF template and view preference as you like. Finally, webpage, image and text all can be converted to PDF which are already referred above. Form below picture, you can view most features of editing and handling PDF document clearly.</p>
 <img src="http://24.media.tumblr.com/c45b540865471e6fa0ebcc79cda3750c/tumblr_mg1fekdP621rrbavjo1_1280.jpg">
-<p><strong>Free Trial of Spire.PDF for .NET<strong></p>
+<strong><p>Free Trial of PDF for .NET<strong></p>
 ================
 ----------------------------------------------------------------------------------------------------------------------------------------------
 <p>Spire.PDF for .NET is a commercial PDF library used in .NET applications. You can <a href="http://www.e-iceblue.com/Download/download-pdf-for-net-now.html">download </a>Spire.PDF for .NET and install it on your system. After adding Spire.Pdf dll, when it works, it will in evaluation mode. Such an evaluation warning will be removed only when you purchase a license.</p>
@@ -38,7 +38,7 @@ There a lot of PDF tasks can be operated by using this .NET PDF library. You can
 <p><strong>How to Run Demos in Projects<strong></p>
 <p>As there are many projects in the pack, when you run a certain project by pressing “F5” or clicking “Debug”, please make sure that you has set this project to be the StartUp Project since the default project is the first project.</p>
 <p>If you want to create a new project by your own, you remember to add Spire.Pdf dll and Spire.License.dll as your reference.</p>
-<p><strong>Content in Download<strong></p>
+<strong><p>Content in Download<strong></p>
 ================
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p><strong>Projects<strong></p>
@@ -108,7 +108,7 @@ After you download Spire.PDF for .NET, you can find all source code of both C# a
 <p>Merge PDF files</p>
 <p>Split PDF files</p>
 There are still many features not packed in the download. You can view them in Spire.PDF for .NET <a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Demos.html">Live Demos</a> and <a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Program-Guide.html">Program Guide.</a></p>
-<p><strong>Why and How to Choose Subscription?<strong></p>
+<strong><p>How to Choose Subscription?<strong></p>
 ================
 ------------------------------------------------------------------------------------------------------------------------
 <p>Even Spire.PDF for .NET is a commercial application, you can have a free trial of it without time limitation. Without license, there will be a red evaluation warning in your target file if you use it. 
@@ -116,7 +116,7 @@ To avoid this evaluation warning, you need to subscribe a license.Here you can s
 <p><strong>How to Apply a License?<strong></p>
 <p>Spire.PDF for NET license is an xml file which is entitled by e-iceblue company. In the license shows the detail information such as available date, product name and version etc. 
 See more in <a href="http://www.e-iceblue.com/Knowledgebase/Licensing/Licensing.html">Licensing.</a></p>
-<p><strong>Feedback and Support<strong></p>
+<strong><p>Feedback and Support<strong></p>
 ================
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 E-iceblue welcomes any kind of questions, bug reports and feedback aout this product from our customers. As long as you leave them on Spire.PDF or .NET <a href="http://www.e-iceblue.com/forum/viewforum.php?f=7">Forum</a> or <a href="http://www.e-iceblue.com/Misc/maillist.html">contact us</a>by e-mail, we will offer full support within one business day.</p>
