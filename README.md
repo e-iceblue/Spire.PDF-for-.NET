@@ -107,7 +107,7 @@ After you download Spire.PDF for .NET, you can find all source code of both C# a
 <p>Extraction( Read PDF Text, Images and Attachment)</p>
 <p>Merge PDF files</p>
 <p>Split PDF files</p>
-There are still many features not packed in the download. You can view them in Spire.PDF for .NET <a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Demos.html">Live Demos</a> and <a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Program-Guide.html">Program Guide</a></p>.
+There are still many features not packed in the download. You can view them in Spire.PDF for .NET <a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Demos.html">Live Demos</a> and <a href="http://www.e-iceblue.com/Knowledgebase/Spire.PDF/Program-Guide.html">Program Guide.</a></p>
 <p><strong>Why and How to Choose Subscription?<strong></p>
 ================
 ------------------------------------------------------------------------------------------------------------------------
