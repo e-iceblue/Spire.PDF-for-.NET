@@ -15,16 +15,27 @@ Spire.PDF for .NET allows you to extract PDF text both in plain format and speci
 This PDF component has rich features in editing PDF file. It supports to set text format and edit PDF page in multiple ways. Here is a simple list:
 
 Text: draw text and set text format
+
 Image: draw PDF images and different kinds of shapes
+
 Table: draw PDF table including simple table, nested table and image table
+
 Watermark: add both text watermark and image watermark
+
 Bookmark:add bookmarks and get bookmarks
+
 Header and footer
+
 Attachment: add attachments, read attachments and remove attachments
+
 Hyperlink: link and anchor link
+
 List: Simple list and multi-level list
+
 Booklet
+
 Action: action and action chain
+
 Automatic Field
 
 Manipulate PDF File
@@ -43,92 +54,6 @@ As there are many projects in the pack, when you run a certain project by pressi
 
 If you want to create a new project by your own, you remember to add Spire.Pdf dll and Spire.License.dll as your reference.
 
-Content in Download
-================
-------------------------------------------------------------------------------------------------------------------------
 
-Projects
 
-After you download Spire.PDF for .NET, you can find all source code of both C# and VB.NET in “Demos” folder. Below is a simple structure to help you find what you want:
 
-Demos:
-
-CS
-CSDemos-VS2005.sln
-CSDemos-VS2008.sln
-CSDemos-VS2010.sln
-
-VB
-VBDemos-VS2005.sln
-VBDemos-VS2008.sln
-VBDemos-VS2010.sln
-
-Data( all the files and images that are applied in projects)
-
-SampleCenter.exe<strong>( demonstrates all the effect of the tasks)
-
-All the projects in "Demos" can be performed on .NET 2.0 and above. Here I list all the demos in every project and after I will also introduce some important features of this PDF component that are not packed in the source code.
-
-Quick Guide
-Draw “HelloWorld”(How to get start)
-Add Simple image
-
-Drawing
-Draw Barcode
-Draw Image and set image format
-Draw Shape(Circles, Arcs, Rectangles, Ellipses, Five-pointed star)
-Draw Text and set text format( rotate, transform, alignment, draw in rectangle)
-Set Overlay
-Set Transparency
-
-Formatting
-Set Text Font
-Set Text Layout
-
-Page
-Work with Automatic Field List
-Work with Page Setup
-Paginate pages
-Set Template
-Work with Page Transition
-
-Table
-Export data from database to PDF table
-Export table and pictures from database to PDF table
-Draw Simple Table
-Draw Nested Table
-Set Table Layout
-
-Watermark
-Add Image Watermark
-Add Text Watermark
-
-List
-Create Ordered list, multiple levels list and set list style
-Create Simple List
-
-Interaction
-Work with Action and Javascript Action
-Work with Action Chain
-Add Attachment
-Add Bookmark
-<p>Work with Formfield
-Add Hyperlink
-
-Security
-Encrypt
-Decrypt
-Create Digital Signarture
-
-Conversion
-Convert HTML to PDF
-
-Document Setting
-Set Properties
-Set View Preference
-
-Document Operation
-Create Booklet
-Extraction( Read PDF Text, Images and Attachment)
-Merge PDF files
-Split PDF files
