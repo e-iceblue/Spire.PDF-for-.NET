@@ -41,6 +41,8 @@ Action: action and action chain
 Automatic Field
 
 Manipulate PDF File
+========
+---------------------------------------------------------------------------------------------------------------------------
 
 There a lot of PDF tasks can be operated by using this .NET PDF library. You can merge PDF files into one PDF as well as split a huge PDF with the given number range accordingly. Furthermore, it can protect your PDF document by encryption with both owner password and user password, create PDF digital signature. If you do not need to lock your PDF, you can decrypt it quickly. Besides, you can set PDF property, PDF template and view preference as you like. Finally, webpage, image and text all can be converted to PDF which are already referred above. Form below picture, you can view most features of editing and handling PDF document clearly.
 
