@@ -9,6 +9,8 @@ Many features are supported in Spire.PDF for .NET. First let us have a first gla
 Spire.PDF for .NET enables users to create PDF file from webpage(html, htm, aspx), image(jpg, jpeg, png, bmp, tiff, gif, ico etc), text and export datatable from database to PDF. It also supports to generate PDF/A-1b, PDF/x1a, 2001 Compliance, standard PDF file. Furthermore, along with Spire.Doc for .NET and Spire.XLS or .NET, it can convert Word doc/docx, Excel xls/xlsx, RTF and XML to PDF.
 
 Read PDF File
+============
+------------------------------------------------------------------------------------------------------------------------
 
 Spire.PDF for .NET allows you to extract PDF text both in plain format and special format such as it can read PDF text which is written from right to left, such as Herbrew. Images of different formats and PDF attachments also can be extracted. 
 
@@ -42,9 +44,9 @@ Manipulate PDF File
 
 There a lot of PDF tasks can be operated by using this .NET PDF library. You can merge PDF files into one PDF as well as split a huge PDF with the given number range accordingly. Furthermore, it can protect your PDF document by encryption with both owner password and user password, create PDF digital signature. If you do not need to lock your PDF, you can decrypt it quickly. Besides, you can set PDF property, PDF template and view preference as you like. Finally, webpage, image and text all can be converted to PDF which are already referred above. Form below picture, you can view most features of editing and handling PDF document clearly.
 
+How to Install Spire.PDF for .NET
 ================
 ------------------------------------------------------------------------------------------------------------------------
-How to Install Spire.PDF for .NET
 
 After downloading, you can install it on your system whatever your OS is. For old users who have installed the old version and want to install a new one, except Spire.Pdf dll, all the contents will overlap the old one.
 
